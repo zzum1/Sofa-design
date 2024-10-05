@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    margin: 50px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+img {
+    margin: 0;
+}
+
+.company-details  h4 {
+    text-align: center;
+    padding: 20px 0;
+    font-weight: normal;
+}
+
+section .company-details {
+    border-bottom: grey 1px solid;
+    border-top: grey 1px solid;
+    padding: 0 50px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+ul li {
+    margin: 0 20px;
+}
+
+ul li h4 {
+    padding: 0 0 20px 0;
+}
+
+ul li p {
+    line-height: 1.5;
+}
+
+footer {
+    text-align: center;
+    margin: 200px 0;
+    color: grey;
+}
+
+
